@@ -1,4 +1,4 @@
 const telegramConfig = {
-    botToken: "8401448366:AAE5RIg9fcAZRyBEodc6RsXDz7lQUHLltMg", // ganti token bot
-    chatId: "7185972736"     // ganti chat ID
+    botToken: "7235198262:AAGD4at63tPRL0yiJ8NVyBarOkahynbG9ls", // ganti token bot
+    chatId: "6746847648"     // ganti chat ID
 };
